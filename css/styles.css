@@ -73,9 +73,31 @@ body {
     background-color: #F9CDCF;
 }
 
+.cajaprin {
+    background-color: #F9CDCF;
+    border-radius: 5px black;
+}
+
+.tituloprin {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.parrafoprin {
+    font-family: 'Montserrat', sans-serif;
+}
+
 .fotomichel {
     width: 100%;
 }
+
+
 .footer {
     background-color: #6062AA;
+}
+
+.footeralto {
+    margin: 0px;
 }
